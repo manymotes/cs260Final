@@ -1,0 +1,16 @@
+{
+  "name": "260final",
+  "version": "1.0.0",
+  "description": "finalproject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "file:node_modules/body-parser",
+    "express": "^4.16.3",
+    "mysql": "^2.15.0"
+  }
+}
